@@ -1,1 +1,1 @@
-THIS IS MY SECOND README
+Display the contents list of your current directory in a long format
